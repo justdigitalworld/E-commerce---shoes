@@ -36,6 +36,8 @@ Environment Variables: It’s a good idea to remind users to copy their .env.exa
 
 <img width="1906" height="885" alt="Screenshot 2026-02-03 134206" src="https://github.com/user-attachments/assets/cf047058-5375-4b16-8287-4d1477f4994a" />
 
+
+
 <img width="1486" height="723" alt="Screenshot 2026-02-03 134224" src="https://github.com/user-attachments/assets/0709bf03-5302-458a-8404-494b18283687" />
 
 <img width="1503" height="509" alt="Screenshot 2026-02-03 134239" src="https://github.com/user-attachments/assets/59974971-618b-4b88-ba9f-262f59be774e" />
