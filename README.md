@@ -31,3 +31,7 @@ Bash
 php artisan storage:link
 Pro-Tips for your README:
 Environment Variables: It’s a good idea to remind users to copy their .env.example to .env and run php artisan key:generate.
+
+
+
+<img width="1906" height="885" alt="Screenshot 2026-02-03 134206" src="https://github.com/user-attachments/assets/cf047058-5375-4b16-8287-4d1477f4994a" />
